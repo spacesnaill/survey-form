@@ -1,0 +1,26 @@
+#title {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+#survey-form {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+#name {
+    
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
